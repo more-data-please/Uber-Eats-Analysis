@@ -11,8 +11,8 @@ demonstrate data reporting, visualization, and insight communication skills usin
 
 ------------ OBJECTIVE ------------
 
-The primary objective of this project was to transform raw transaction data into <br>
-a clear, decision-ready report that highlights behavioral patterns and cost optimization opportunities.
+The primary objective of this project was to transform raw transaction data into a clear, <br>
+decision-ready report that highlights behavioral patterns and cost optimization opportunities.
 
 <br>
 

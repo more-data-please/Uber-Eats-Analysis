@@ -2,6 +2,7 @@
 
 
 ------------ PROJECT OVERVIEW ------------
+
 This project analyzes one year of Uber Eats transaction data to identify spending trends, 
 restaurant preferences, and cost drivers such as service fees, delivery fees, and tips.
 

@@ -8,12 +8,14 @@ ordering behavior, restaurant preferences, and key cost drivers. The analysis wa
 demonstrate data reporting, visualization, and insight communication skills using real-world data.
 
 <br>
+<br>
 
 ------------ OBJECTIVE ------------
 
 The primary objective of this project was to transform raw transaction data into a clear, <br>
 decision-ready report that highlights behavioral patterns and cost optimization opportunities.
 
+<br>
 <br>
 
 ------------ TOOLS USED ------------
@@ -22,6 +24,7 @@ decision-ready report that highlights behavioral patterns and cost optimization 
 - Data Reporting & Visualization
 - Exploratory Data Analysis
   
+<br>
 <br>
 
 ------------ KEY DELIVERABLES ------------

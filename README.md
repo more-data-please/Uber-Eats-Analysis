@@ -16,11 +16,5 @@ restaurant preferences, and cost drivers such as service fees, delivery fees, an
 
 
 ------------ KEY DELIVERABLES ------------
-- Interactive Tableau Dashboard  
+- Interactive Tableau Dashboard | https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis  
 - Written Analytical Report (PDF)
-
-
-
------------- LINKS ------------
-- Tableau Dashboard: https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
-- PDF Report: ./Uber_Eats_Spending_Analysis_Report.pdf

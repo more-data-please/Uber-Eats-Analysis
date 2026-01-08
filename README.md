@@ -3,10 +3,9 @@
 
 ------------ PROJECT OVERVIEW ------------
 
-This project analyzes one year of Uber Eats transaction data to identify spending trends, ordering behavior,<br>
-restaurant preferences, and key cost drivers. The analysis was conducted to demonstrate data reporting,<br>
-visualization, and
-insight communication skills using real-world data.
+This project analyzes one year of Uber Eats transaction data to identify spending trends, <br>
+ordering behavior, restaurant preferences, and key cost drivers. The analysis was conducted to <br>
+demonstrate data reporting,visualization, and insight communication skills using real-world data.
 
 <br>
 

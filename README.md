@@ -23,6 +23,8 @@ TOOLS & SKILLS
 - Tableau Public
 - Data Reporting & Visualization
 - Exploratory Data Analysis
+- Trend & Pattern Analysis
+- Business Insight Communication
   
 <br>
 <br>
@@ -32,4 +34,4 @@ KEY DELIVERABLES
 https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
   
 - Written Analytical Report (PDF)
-- Uber_Eats_Report.pdf
+Uber_Eats_Report.pdf

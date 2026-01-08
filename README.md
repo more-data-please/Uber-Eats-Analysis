@@ -35,3 +35,4 @@ https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEa
   
 - Written Analytical Report (PDF)
 Uber_Eats_Report.pdf
+https://github.com/more-data-please/Uber-Eats-Analysis/blob/main/Uber_Eats_Report.pdf

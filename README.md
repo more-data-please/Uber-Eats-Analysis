@@ -3,8 +3,10 @@
 
 ------------ PROJECT OVERVIEW ------------
 
-This project analyzes one year of Uber Eats transaction data to identify spending trends, 
-restaurant preferences, and cost drivers such as service fees, delivery fees, and tips.
+This project analyzes one year of Uber Eats transaction data to identify
+spending trends, ordering behavior, restaurant preferences, and key cost drivers.
+The analysis was conducted to demonstrate data reporting, visualization, and
+insight communication skills using real-world data.
 
 
 
@@ -16,5 +18,7 @@ restaurant preferences, and cost drivers such as service fees, delivery fees, an
 
 
 ------------ KEY DELIVERABLES ------------
-- Interactive Tableau Dashboard | https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis  
+- Interactive Tableau Dashboard
+- https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
+  
 - Written Analytical Report (PDF)

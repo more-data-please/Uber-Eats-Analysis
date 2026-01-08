@@ -8,6 +8,7 @@ spending trends, ordering behavior, restaurant preferences, and key cost drivers
 The analysis was conducted to demonstrate data reporting, visualization, and
 insight communication skills using real-world data.
 
+####
 
 ------------ OBJECTIVE ------------
 

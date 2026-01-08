@@ -28,7 +28,7 @@ decision-ready report that highlights behavioral patterns and cost optimization 
 <br>
 
 ------------ KEY DELIVERABLES ------------
-- Interactive Tableau Dashboard
+- Interactive Tableau Dashboard <br>
 https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
   
 - Written Analytical Report (PDF)

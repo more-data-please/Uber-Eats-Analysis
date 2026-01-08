@@ -1,7 +1,7 @@
 # Uber-Eats-Analysis
 
 
-<c> ------------ PROJECT OVERVIEW ------------ <c>
+OVERVIEW
 
 This project analyzes one year of Uber Eats transaction data to identify spending trends, <br>
 ordering behavior, restaurant preferences, and key cost drivers. The analysis was conducted to <br>
@@ -10,7 +10,7 @@ demonstrate data reporting, visualization, and insight communication skills usin
 <br>
 <br>
 
------------- OBJECTIVE ------------
+OBJECTIVE
 
 The primary objective of this project was to transform raw transaction data into a clear, <br>
 decision-ready report that highlights behavioral patterns and cost optimization opportunities.
@@ -18,7 +18,7 @@ decision-ready report that highlights behavioral patterns and cost optimization 
 <br>
 <br>
 
------------- TOOLS USED ------------
+TOOLS & SKILLS
 
 - Tableau Public
 - Data Reporting & Visualization
@@ -27,7 +27,7 @@ decision-ready report that highlights behavioral patterns and cost optimization 
 <br>
 <br>
 
------------- KEY DELIVERABLES ------------
+KEY DELIVERABLES
 - Interactive Tableau Dashboard <br>
 https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
   

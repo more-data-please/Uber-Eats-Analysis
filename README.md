@@ -3,16 +3,8 @@
 
 OVERVIEW
 
-This project analyzes one year of Uber Eats transaction data to identify spending trends, <br>
-ordering behavior, restaurant preferences, and key cost drivers. The analysis was conducted to <br>
-demonstrate data reporting, visualization, and insight communication skills using real-world data.
-
-<br>
-
-OBJECTIVE
-
-The primary objective of this project was to transform raw transaction data into a clear, <br>
-decision-ready report that highlights behavioral patterns and cost optimization opportunities.
+Analyzed one year of Uber Eats transaction data to identify spending trends, ordering behavior, and cost drivers, <br>
+delivering a decision-ready report that demonstrates data reporting, visualization, and insight communication skills.
 
 <br>
 

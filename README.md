@@ -25,7 +25,7 @@ optimization opportunities.
 
 ------------ KEY DELIVERABLES ------------
 - Interactive Tableau Dashboard
-- https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
+https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
   
 - Written Analytical Report (PDF)
 - Uber_Eats_Report.pdf

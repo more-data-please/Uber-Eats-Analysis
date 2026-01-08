@@ -33,6 +33,6 @@ KEY DELIVERABLES
 - Interactive Tableau Dashboard <br>
 https://public.tableau.com/app/profile/jasmine.b1388/viz/UberEatsAnalysis/UberEatsAnalysis
   
-- Written Analytical Report (PDF)
+- Written Analytical Report (PDF)<br>
 Uber_Eats_Report.pdf
 https://github.com/more-data-please/Uber-Eats-Analysis/blob/main/Uber_Eats_Report.pdf

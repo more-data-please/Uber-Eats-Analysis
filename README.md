@@ -9,7 +9,6 @@ The analysis was conducted to demonstrate data reporting, visualization, and
 insight communication skills using real-world data.
 
 <br>
-<br>
 
 ------------ OBJECTIVE ------------
 
@@ -17,6 +16,7 @@ The primary objective of this project was to transform raw transaction data into
 a clear, decision-ready report that highlights behavioral patterns and cost
 optimization opportunities.
 
+<br>
 
 ------------ TOOLS USED ------------
 
@@ -24,6 +24,7 @@ optimization opportunities.
 - Data Reporting & Visualization
 - Exploratory Data Analysis
   
+<br>
 
 ------------ KEY DELIVERABLES ------------
 - Interactive Tableau Dashboard
